@@ -6,6 +6,8 @@ import numpy as np
 from matplotlib import pyplot as plt
 import re
 
+# The follwing are teh local file_paths on my computer. You have to change them to the ones on your computer to be able to run this code.
+
 path_457 = '/Users/lucas1/Desktop/Uni/Physiklabor A/Physiklabor für Anfänger Teil 2/Versuch 81 - ' \
            'Photoeffekt/Materialien/457nm_final_USB2G541981_16-25-05-212.txt'
 path_494 = '/Users/lucas1/Desktop/Uni/Physiklabor A/Physiklabor für Anfänger Teil 2/Versuch 81 - ' \
